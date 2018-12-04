@@ -1,0 +1,4 @@
+com/sahil/concours/entities/Offre.class
+com/sahil/concours/db/ConcoursRepository.class
+com/sahil/concours/web/OffreController.class
+com/sahil/concours/ConcoursApplication.class
